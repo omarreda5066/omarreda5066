@@ -7,7 +7,8 @@
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=omarreda5066&style=flat&color=orange&label=PROFILE+VIEWS)
 [![LinkedIn](https://img.shields.io/badge/-Omar%20Reda-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/omar-reda-4282a2387/)
-
+[![Instagram](https://img.shields.io/badge/-omarrr__reda-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/omarrr_reda)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/share/1DZMDp8n3N/?mibextid=wwXIfr)
 </div>
 
 <hr></hr>
